@@ -1,0 +1,2 @@
+model_checkpoint_path: "CONV_VAE_MNIST.ckpt"
+all_model_checkpoint_paths: "CONV_VAE_MNIST.ckpt"
